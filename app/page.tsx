@@ -1,6 +1,6 @@
-import Image from "next/image";
+import React from 'react'
 
-export default function Home() {
+export default function page() {
   return (
     <div>
       this is my job portal web site 
